@@ -1,5 +1,5 @@
 function updateCountdown() {
-    const targetDate = new Date("2025-12-31 00:00:00").getTime();
+    const targetDate = new Date("2024-5-10 00:00:00").getTime();
     const currentDate = new Date().getTime();
     const timeRemaining = targetDate - currentDate;
 
